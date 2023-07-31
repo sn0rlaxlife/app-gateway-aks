@@ -20,3 +20,9 @@ Deployment of AKS with Application Gateway for Containers
 <p>Then we will deploy with our deploy.sh script</p>
 <code>chmod +x deploy.sh
       ./deploy.sh</code>
+
+<h3>Delegating permissions to managed identity</h3>      
+<p>This associates the Application Load Balancer Controller ability to provision Application Gateway for Container resources and to join the subnet intended for the Application Gateway for Containers association resource</p>
+<code>chmod +x delegate.sh
+      ./delegate.sh</code>
+
