@@ -12,3 +12,7 @@ Deployment of AKS with Application Gateway for Containers
 <br><p>Next we need to start with creating our AKS cluster</p></br>
 <code>chmod +x aks.sh</code>
 <code>./aks.sh</code>
+
+<br><p> Next we deploy Workload.sh </p></br>
+<code>chmod +x workload.sh
+      ./workload.sh </code>
