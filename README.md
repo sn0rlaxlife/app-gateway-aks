@@ -16,3 +16,7 @@ Deployment of AKS with Application Gateway for Containers
 <br><p> Next we deploy Workload.sh </p></br>
 <code>chmod +x workload.sh
       ./workload.sh </code>
+
+<p>Then we will deploy with our deploy.sh script</p>
+<code>chmod +x deploy.sh
+      ./deploy.sh</code>
