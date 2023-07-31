@@ -4,7 +4,9 @@ Deployment of AKS with Application Gateway for Containers
 
 <h1>Quick Start</h1>
 <p>Start with logging into your azure account and clone the repository below</p>
+<pre class="no translate">
 <code>git clone https://github.com/sn0rlaxlife/app-gateway-aks.git</code>
+</pre>
 <p>Start with registering the providers by using the providers.sh</p>
 <pre class="no translate">
 <code>chmod +x providers.sh</code>
